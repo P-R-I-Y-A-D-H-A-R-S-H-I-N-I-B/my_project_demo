@@ -1,4 +1,6 @@
 #Comment Line
+
+#this class sets up the environment
 class WumpusWorld:
 
     def __init__(self,n):
