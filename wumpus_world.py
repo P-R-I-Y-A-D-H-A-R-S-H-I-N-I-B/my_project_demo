@@ -1,3 +1,4 @@
+#It is a game where the agent finds the gold in this wumpus world
 class WumpusWorld:
 
     def __init__(self,n):
