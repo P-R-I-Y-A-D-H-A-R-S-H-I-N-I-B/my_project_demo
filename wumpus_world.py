@@ -217,10 +217,12 @@ w.placeAgent(int(a[0]),int(a[1]))
 
 g=input("Enter the position to add gold:")
 g=g.split(",")
+
 w.add_Gold(int(g[0]),int(g[1]))
 #w.print_env(4)
 
 np=int(input("Enter the number of pits:"))
+#It adds the pits in the environment
 w.add_Pit(np,4)
 w.print_env(4)
 
