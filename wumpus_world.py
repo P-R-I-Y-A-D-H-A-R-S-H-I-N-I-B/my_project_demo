@@ -228,4 +228,6 @@ w.print_env(4)
 
 
 w.playGame(4,w)
+
+#Print the environment
 w.print_env(4)
