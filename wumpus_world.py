@@ -202,7 +202,7 @@ class WumpusWorld:
                 
             
             
-
+#execution begins from here
 w=WumpusWorld(4)
 #w.print_env(4)
 
