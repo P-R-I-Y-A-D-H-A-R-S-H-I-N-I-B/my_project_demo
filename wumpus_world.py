@@ -70,6 +70,7 @@ class WumpusWorld:
         self.ar=r
         self.ac=c
 
+    #it is where the game begins
     def playGame(self,n,ww):
         print("\t\t~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
         print("\t\t\tGAME STARTS")
