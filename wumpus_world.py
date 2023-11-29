@@ -226,7 +226,7 @@ np=int(input("Enter the number of pits:"))
 w.add_Pit(np,4)
 w.print_env(4)
 
-
+#game starts
 w.playGame(4,w)
 
 #Print the environment
