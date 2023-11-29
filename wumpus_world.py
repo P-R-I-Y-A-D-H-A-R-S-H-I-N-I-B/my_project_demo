@@ -217,7 +217,7 @@ w.placeAgent(int(a[0]),int(a[1]))
 
 g=input("Enter the position to add gold:")
 g=g.split(",")
-
+#Adds the gold in the environment
 w.add_Gold(int(g[0]),int(g[1]))
 #w.print_env(4)
 
